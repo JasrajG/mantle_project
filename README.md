@@ -10,19 +10,22 @@ While the data could be merged manually, I chose to write a programmatic solutio
 You will need Python 3 installed, along with the `pandas` and `openpyxl` libraries.
 ```bash
 pip install pandas openpyxl
-
+```
 Step 1: Extract the Data
 Run the extraction script. This script reaches out to the live Google Sheet, intelligently identifies the correct tabs (ignoring hidden/scratchpad sheets), and parses the data into clean, raw CSVs.
 
-code
-Bash
+
+```bash
 python extract.py
+```
+
 Step 2: Analyze and Validate
 Run the analysis script. This script merges the ledgers, standardizes naming conventions, and performs mathematical and logical validations on every single row.
 
-code
-Bash
+
+```bash
 python analyze.py
+```
 This will generate Final_Validated_Ledger.csv and output the answers to the assessment questions directly in your terminal.
 
 🧠 Methodology & Validation Logic
