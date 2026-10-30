@@ -1,0 +1,12 @@
+Date,Client,Fund,Investment,Starting Balance,Profit,Fee,Reported Ending Balance,Calculated Ending Balance,Error Flag,Correction Note
+2024-12-31 00:00:00,Alfred Banks,Belladonna,Breakbank Series IV,64098.34,4615.08048,576.88506,681.36,68136.53542,True,"Math Typo: Reported $681.36 but math requires $68,136.54."
+2024-12-31 00:00:00,Kelvin Loggins,West Grove Banking Inc.,Breakbank Series IV,863.35,62.161199999999994,9.324179999999998,916.1870200000001,916.1870200000001,True,Logic Error: Client is not on the authorized list.
+2024-12-31 00:00:00,Marge Nestor,West Grove Banking Inc.,Calrose Group Fund 3,90624.64,4259.35808,638.9037119999999,94245.094368,94245.094368,True,Logic Error: Client is not on the authorized list. | Logic Error: West Grove Banking Inc. does not manage Calrose Group Fund 3.
+2024-12-31 00:00:00,Gabriel Holland,West Grove Banking Inc.,Lemur Ventures LLC,9274.43,463.72150000000005,69.55822500000001,9668.593275,9668.593275,True,Logic Error: West Grove Banking Inc. does not manage Lemur Ventures LLC.
+2024-12-31 00:00:00,Inigo Juarez,Belladonna,Breakbank Series IV,71844.09,5172.774479999999,646.5968099999999,76370.26766999999,76370.26766999999,False,Valid
+2024-12-31 00:00:00,Oscar P. Quinn,Moonstripe,Calrose Group Fund 3,6240.3,293.2941,29.329410000000003,6504.26469,6504.26469,True,Logic Error: Moonstripe does not manage Calrose Group Fund 3.
+"Dec 31, 2024",Alfred Banks,Moonstripe,Lemur Ventures LLC,2359.31,117.9655,11.796550000000002,2465.47,2465.4789499999997,False,Valid
+"Dec 31, 2024",Cathy Danvers,West Grove Banking Inc.,Breakbank Series VI,92446.92,5824.15596,873.623394,9739.74,97397.452566,True,"Math Typo: Reported $9,739.74 but math requires $97,397.45."
+"Dec 31, 2024",Evelyn Folgers,Moonstripe,Calrose Group Fund III,568.4,26.7148,2.6714800000000003,592.44,592.44332,False,Valid
+"Dec 31, 2024",Gabriel Holland,West Grove Banking Inc.,Calrose Group Fund III,6091.34,286.29298,42.943947,6344.68,6334.689033000001,True,"Math Typo: Reported $6,344.68 but math requires $6,334.69."
+"Dec 31, 2024",Inigo Juarez,Belladonna,Lemur Ventures LLC,671084.04,33554.202000000005,4194.275250000001,700443.97,700443.9667500001,False,Valid
