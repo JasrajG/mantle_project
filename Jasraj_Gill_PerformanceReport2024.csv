@@ -1,0 +1,12 @@
+Client,Fund,Investment,Starting Balance,Ending Balance,Profit,Fee,Calculated End Balance,Data Entry Error Flag,Calculated Fee Rate,Calculated Rate of Return
+Alfred Banks,Belladonna Investing,Breakbank Series IV,64098.34,681.36,4615.08048,576.88506,68136.53542,True,0.125,0.072
+Kelvin Loggins,West Grove Banking Inc.,Breakbank Series IV,863.35,916.1870200000001,62.161199999999994,9.324179999999998,916.1870200000001,False,0.15,0.072
+Marge Nestor,West Grove Banking Inc.,Calrose Group Fund 3,90624.64,94245.094368,4259.35808,638.9037119999999,94245.094368,False,0.15,0.047
+Gabriel Holland,West Grove Banking Inc.,Lemur Ventures LLC,9274.43,9668.593275,463.72150000000005,69.55822500000001,9668.593275,False,0.15,0.05
+Inigo Juarez,Belladonna Investing,Breakbank Series IV,71844.09,76370.26766999999,5172.774479999999,646.5968099999999,76370.26766999999,False,0.125,0.072
+Oscar P. Quinn,Moonstripe,Calrose Group Fund 3,6240.3,6504.26469,293.2941,29.329410000000003,6504.26469,False,0.1,0.047
+Alfred Banks,Moonstripe,Lemur Ventures LLC,2359.31,2465.47,117.9655,11.796550000000002,2465.4789499999997,False,0.1,0.05
+Cathy Danvers,West Grove Banking Inc.,Breakbank Series VI,92446.92,9739.74,5824.15596,873.623394,97397.452566,True,0.15,0.063
+Evelyn Folgers,Moonstripe,Calrose Group Fund 3,568.4,592.44,26.7148,2.6714800000000003,592.44332,False,0.1,0.047
+Gabriel Holland,West Grove Banking Inc.,Calrose Group Fund 3,6091.34,6344.68,286.29298,42.943947,6334.689033000001,True,0.15,0.047
+Inigo Juarez,Belladonna Investing,Lemur Ventures LLC,671084.04,700443.97,33554.202000000005,4194.275250000001,700443.9667500001,False,0.125,0.05
